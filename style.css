@@ -1,0 +1,29 @@
+.container{
+    text-align: center;
+    font-size: 2rem;
+}  
+#numOfDice{
+    width: 150px;
+    padding: 10px 20px;
+    font-size: 20px;
+} 
+
+button{
+
+    padding: 10px 20px;
+    font-size: 20px;
+    border: 1px solid orange;
+    background-color: #fff;
+}
+button:hover{
+    background-color: orange;
+    color: #fff;
+}
+
+#diceResult {
+    margin: 25px;
+}
+#diceImages img{
+    width: 150px;
+    margin: 5px;
+} 
